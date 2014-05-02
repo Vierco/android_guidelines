@@ -32,7 +32,7 @@ Example of a common android project structure
 
 - Common views       
 	- **Button** - btn_view ... findViewById (R.id.BT_name)    
-	- **TextView** - txv_view ... findViewById (R.id.TXV_name)    
+	- **TextView** - txt_view ... findViewById (R.id.TX_name)    
 	- **ToggleButton** - tgb_view ... findViewById (R.id.TGB_name)   
 	- **CheckBox** - cb_view ... findViewById (R.id.CB_name)   
 	- **CheckedTextView** - ctv_view ... findViewById (R.id.CTV_name)   
