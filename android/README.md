@@ -3,7 +3,7 @@
 
 These are the commons classifications used in the sections of my android projects.   
 Helpful for have different projects organized in the same way and where many people are modifying the same project
-In this other repository are applied these [android-coding-guidelines](http://www.example.com)
+In this other repository are applied these [android-coding-guidelines](https://github.com/Vierco/Get_elements_from_web_and_caching)
 
 ## Index
 
