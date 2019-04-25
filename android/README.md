@@ -12,8 +12,8 @@ In this other repository are applied these [android-coding-guidelines](https://g
 	- [2. Views references](#2-views-references)
 	- [3. The folder values](#3-folder-values--anim)
 	- [4. Dimen resource.xml](#4-dimen-resource)
-	- [1.5. Style Resources](#5-style-resources)
- 	- [1.6. Dimen Resources](#6-dimen-resources)
+	- [4.5. Style Resources](#5-style-resources)
+ 	- [4.6. Dimen Resources](#6-dimen-resources)
  	
  	
 ### 1. Package structure   
